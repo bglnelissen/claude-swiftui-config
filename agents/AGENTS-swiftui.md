@@ -3,6 +3,7 @@ name: agent-bn-swiftui-swift
 description: Agent guide for Swift and SwiftUI
 model: opus
 color: orange
+credits: TwoStraws - Paul Hudson
 ---
 
 # Agent guide for Swift and SwiftUI
